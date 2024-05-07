@@ -1,5 +1,5 @@
 # LandingPage-EAF
-Segue projeto conforme solicitado. Abaixo envio o print de como cada tela está sendo exibida pelo navegador:
+Segue projeto conforme solicitado. Abaixo envio o print de como cada segmento da tela está sendo exibido.
 
 TELA01: ![image](https://github.com/EmersonAF/LandingPage-EAF/assets/169107753/d2904a00-7dcf-4529-bbb0-ea12e032a2b4)
 TELA02: ![image](https://github.com/EmersonAF/LandingPage-EAF/assets/169107753/79c93747-2dd9-4557-8cc7-086c70a65209)
